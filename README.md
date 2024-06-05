@@ -2,7 +2,7 @@
 
 > :warning: Work in progress
 
-## Usage
+## Usage
 
 ```shell
 docker run --rm -v $(pwd):/files prettier-yaml /files
